@@ -11,16 +11,11 @@
 	<projectUrl>http://tempfilecleaner.com</projectUrl>
     <tags>TempFileCleaner</tags>
     <copyright>2013</copyright>
-    <!-- <licenseUrl>__REPLACE__</licenseUrl> -->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://addpcs.com/assets/img/tfc_logo.png</iconUrl>
-    <!-- <dependencies> -->
-    <!--   <dependency id="DotNet4.0" /> -->
-    <!-- </dependencies> -->
     <releaseNotes>http://wiki.addpcs.com/x/OAAO#4.2.2</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
-    <!--<file src="content\**" target="content" />-->
   </files>
 </package>
