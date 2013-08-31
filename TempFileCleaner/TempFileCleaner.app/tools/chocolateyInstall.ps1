@@ -1,6 +1,6 @@
 ﻿$packageName = 'TempFileCleaner.app'
 $installerType = 'EXE'
-$url = 'http://software.addpcs.com/get.php?dl=50'
+$url = 'http://software.addpcs.com/get.php?dl=53'
 $url64 = $url
 $silentArgs = '/S'
 $validExitCodes = @(0)
