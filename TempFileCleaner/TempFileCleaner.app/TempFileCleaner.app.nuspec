@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>TempFileCleaner.app</id>
-    <title>TempFileCleaner (Application Install)</title>
+    <id>tempfilecleaner.app</id>
+    <title>Temp File Cleaner (Application Install)</title>
     <version>4.5.0.0</version>
     <authors>addpcs.com</authors>
     <owners>Justin Murray</owners>
-    <summary>TempFileCleaner</summary>
-	<description>TempFileCleaner is a disk cleanup tool for Windows. It will rid your PC of junk that you didn't even know you had! This will install the application, including shortcuts.</description>
-	<projectUrl>http://tempfilecleaner.com</projectUrl>
-    <tags>TempFileCleaner admin</tags>
-    <copyright>2013</copyright>
+    <summary>Temporary file cleaner for Windows.</summary>
+    <description>TempFileCleaner is a disk cleanup tool for Windows. It will rid your PC of junk that you didn't even know you had!</description>
+    <projectUrl>http://tempfilecleaner.com</projectUrl>
+    <tags>TempFileCleaner tfc</tags>
+    <copyright>2017 addpcs, llc</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://addpcs.com/assets/img/tfc_logo.png</iconUrl>
     <releaseNotes>http://wiki.addpcs.com/x/OAAO#4.3.0</releaseNotes>
